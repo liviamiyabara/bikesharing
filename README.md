@@ -30,9 +30,16 @@ Based on the analysis developed on the NYC Citibike data from August, 2019, belo
 
 * For Des Moines bike sharing business it would be important to focus on a local customer base that is focused on the commute to work since majority of rides happens with subscribers during weekdays
 
-    ![ScreenShot](https://github.com/liviamiyabara/bikesharing/blob/main/Resources/Bike%20sharing%20analytics%20(4).png)
+    ![ScreenShot](https://github.com/liviamiyabara/bikesharing/blob/main/Resources/Bike%20sharing%20analytics%20(5).png)
 
 ## Summary
+
+As highlighed above, majority of revenues from bike sharing business comes from local male subscribers that use the bikes to commute to work. The trip lenght normally is no longer than 20 minutes, so it is important to have a good network of stations that are closed to each other and located near main residential and office areas. 
+
+The bike sharing business will require maintenance operations and according to the data, the best time to do that is in the lowest demand period, from noon to 5:00 a.m.. During weekends, the peak hours change and start later in the day (agter 9:00 am), so maintenance hours for the weekends could start later in the day. 
+
+Regarding additional visualizations, one suggestion will be to create a chart with all the stations and compare the number of rides and number of bikes in each one, to better understand the usage and capacity of each station: [link to dashboard](https://public.tableau.com/profile/livia.miyabara#!/vizhome/Citibike_Worksheet_5/D_Stationusage?publish=yes). Another idea would be to create a calculated field based on the Birth year and create tiers based on age, comparing those segments with the gender, User type and total number of trips can give additional insights on the demographics and who should be the targeted customers.   
+
 
 ## Deliverables
 
